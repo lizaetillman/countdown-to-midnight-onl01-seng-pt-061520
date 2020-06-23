@@ -10,8 +10,5 @@ def countdown("name")
 end
 
 def countdown_with_sleep
-  countdown
   sleep 5.seconds
 end
-
-countdown_with_sleep
