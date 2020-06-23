@@ -1,4 +1,4 @@
-x = 
+x =
 
 def countdown
   while
