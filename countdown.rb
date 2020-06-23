@@ -11,5 +11,5 @@ return "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(5)
-  sleep 5
+  runtime = Benchmark.measure { countdown_with_sleep(5) }
 end
