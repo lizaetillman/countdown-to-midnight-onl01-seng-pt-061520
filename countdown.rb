@@ -13,4 +13,6 @@ end
 
 def countdown_with_sleep(5)
   while number > 0
+
+return "HAPPY NEW YEAR!"
 end
