@@ -1,7 +1,7 @@
 x = 10
 
 def countdown
-  while
+  while x > 0
     puts "#{number} SECOND(S)!"
     x -=1
   end
